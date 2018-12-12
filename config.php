@@ -1,12 +1,12 @@
 <?php
-define('APIKEY', 'AIzaSyB5zY2fq6YRSMxF7HwGb8rEQ8VVRxiO6ps');
-define('GJ_CODE', 'HK');
-define('SITE_NAME', 'you2b1eclub');
-define('TITLENAME', 'you2beclub');
-define('EN2DEKEY', '32123wwerwertgfdgds');
-define('EMAIL', '1334347212@qq.com');
-define('NAME', 'admin');
-define('PASSWORD', 'admin');
+define('APIKEY', 'AIzaSyCuhvp61_DcIeeIpQWSnvyyosOg6YZ1Zu8');
+define('GJ_CODE', 'US');
+define('SITE_NAME', 'redrain1314');
+define('TITLENAME', 'redrain1314');
+define('EN2DEKEY', 'a5545b6a5056398');
+define('EMAIL', 'sexyhome222@gmail.com');
+define('NAME', 'gyy222');
+define('PASSWORD', 'a5545b6ayxf @ gmail.com');
 define('LOGINHTML', '<!DOCTYPE html>
 <html lang="en">
 <head>
